@@ -8,7 +8,7 @@ const HeroSection = () => {
         <img
           src={heroImg}
           alt="Luxurious modern interior living room with natural materials"
-          className="w-full h-full object-cover opacity-40"
+          className="w-full h-full object-cover"
           loading="eager"
         />
         <div className="absolute inset-0 bg-gradient-to-r from-leather via-leather/80 to-transparent" />
